@@ -1,0 +1,22 @@
+{
+  "wheel_id": 667,
+  "structure": "chain",
+  "slug": "theseocompanybrisbane-com-108",
+  "project": "seo-services-brisbane-budget-tips-3c06a9ae37b5f761b9c8e0784231e",
+  "parent_t1_ref": "theseocompanybrisbane-com-107",
+  "node_role": "feeder",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "seo services brisbane budget tips",
+  "intended_url": "https://sites-e470-2.web.app/seo-services-brisbane-budget-tips-3c06a9ae37b5f761b9c8e0784231e/",
+  "tier": "T2",
+  "writeback_nonce": "215ea53a01806b75",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/seo-services-brisbane-faq-5f825ccdca537fba44ecd75cccba37c1898ea/",
+      "anchor": "this seo services brisbane faq guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
